@@ -1,0 +1,1 @@
+tar -czv --exclude='.DS_Store' --exclude='__MACOSX' --disable-copyfile -f archive.tar.gz folder
